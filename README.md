@@ -1,1 +1,1 @@
-anaconda 
+we use anaconda python distubtaion 
